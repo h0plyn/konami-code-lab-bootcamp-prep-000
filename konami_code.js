@@ -22,6 +22,8 @@ function init() {
     
       if (index === codes.length) {
         alert('GODMODE UNLOCKED!')
+        
+    index = 0;
       }
     } else {
       index = 0;
