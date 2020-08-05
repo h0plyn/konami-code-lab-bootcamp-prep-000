@@ -21,7 +21,7 @@ function init() {
       index++;
     
       if (index === codes.length) {
-        alert('GODMODE UNLOCKED!')
+        alert('Hurray')
         
     index = 0;
       }
